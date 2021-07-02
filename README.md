@@ -20,7 +20,6 @@ My application allow registration and login after which user can view all driver
 - Run Tomcat
 
 ## 👨‍💻Technologies trained
-- MySQL
 - Maven
 - Tomcat
 - Lombok
